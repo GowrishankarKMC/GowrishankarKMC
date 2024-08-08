@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GowrishankarKMC
-- 👀 I’m interested in c#
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning Asp.net Framework and core
+- 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me ...
 
 <table style="width: 100%; background-color: #22272d; border-collapse: collapse;">
